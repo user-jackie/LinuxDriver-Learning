@@ -1,0 +1,1 @@
+cmd_/home/brojackie/linux/IMX6ULL/Linux_Drivers/13_irq/keyirq.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/brojackie/linux/IMX6ULL/Linux_Drivers/13_irq/keyirq.ko /home/brojackie/linux/IMX6ULL/Linux_Drivers/13_irq/keyirq.o /home/brojackie/linux/IMX6ULL/Linux_Drivers/13_irq/keyirq.mod.o

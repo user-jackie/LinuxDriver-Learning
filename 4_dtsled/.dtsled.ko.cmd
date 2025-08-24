@@ -1,0 +1,1 @@
+cmd_/home/brojackie/linux/IMX6ULL/Linux_Drivers/4_dtsled/dtsled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/brojackie/linux/IMX6ULL/Linux_Drivers/4_dtsled/dtsled.ko /home/brojackie/linux/IMX6ULL/Linux_Drivers/4_dtsled/dtsled.o /home/brojackie/linux/IMX6ULL/Linux_Drivers/4_dtsled/dtsled.mod.o

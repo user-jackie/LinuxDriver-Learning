@@ -1,0 +1,1 @@
+cmd_/home/brojackie/linux/IMX6ULL/Linux_Drivers/3_newchrled/newchrled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/brojackie/linux/IMX6ULL/Linux_Drivers/3_newchrled/newchrled.ko /home/brojackie/linux/IMX6ULL/Linux_Drivers/3_newchrled/newchrled.o /home/brojackie/linux/IMX6ULL/Linux_Drivers/3_newchrled/newchrled.mod.o

@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/brojackie/linux/IMX6ULL/linux-nxp/linux-imx-rel_imx_4.1.15_2.1.0_ga",
+                "/home/brojackie/linux/IMX6ULL/linux-nxp/linux-imx-rel_imx_4.1.15_2.1.0_ga/include",
+                "/home/brojackie/linux/IMX6ULL/linux-nxp/linux-imx-rel_imx_4.1.15_2.1.0_ga/arch/arm/include",
+                "/home/brojackie/linux/IMX6ULL/linux-nxp/linux-imx-rel_imx_4.1.15_2.1.0_ga/arch/arm/include/generated"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-14",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
